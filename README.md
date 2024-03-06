@@ -6,4 +6,4 @@ This repository contains the slides for some of my recent talks.
 2. [Limassol Nov 2021](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_Slides.pdf)
 3. [UNIGE workshop on Statistical Learning](https://github.com/dvdlvc/Talks/blob/main/Workshop.pdf)
 4. [COMPSTAT London, August 2023](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_Slides.pdf)
-5. [CREST March 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_CREST_June2022.pdf)
+5. [CREST March 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchiaCrest.pdf)
