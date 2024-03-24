@@ -8,3 +8,4 @@ This repository contains the slides for some of my recent talks.
 4. [COMPSTAT London, August 2023](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_Slides.pdf)
 5. [CREST March 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchiaCrest_Updated.pdf)
 6. [SMSA March 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_Slides.pdf)
+7. [ESSE March 2024]()
