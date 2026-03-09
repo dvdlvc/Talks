@@ -10,3 +10,5 @@ This repository contains the slides for some of my recent talks.
 6. [SMSA March 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_Slides.pdf)
 7. [ESSEC March 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_ESSEC.pdf)
 8. [Erasmus University June 2024](https://github.com/dvdlvc/Talks/blob/main/LaVecchia_Rotterdam.pdf)
+9. [Università del Piemonte Orientale, April 2026](https://github.com/dvdlvc/Talks/blob/main/Novara_Seminar_DLV.pdf)
+    
